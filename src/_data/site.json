@@ -1,0 +1,17 @@
+{
+  "baseURL": "https://parentingwith.com",
+  "author": "parentingwith",
+  "description": "parentingwith - A resource for parents living with mental illness",
+  "title": "parentingwith - A resource for parents living with mental illness",
+  "language": "en",
+  "social": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/#"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://linkedin.com/company/#"
+    }
+  ]
+}
